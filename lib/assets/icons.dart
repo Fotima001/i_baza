@@ -8,4 +8,9 @@ sealed class AppIcons {
   static const onboarding3 = '${_images}onboarding_3.png';
   static const arrow_right = '${_icons}arrow_right.svg';
   static const i_baza = '${_icons}i_baza.svg';
+  static const yellowArrow = '${_icons}Arrow - Right.svg';
+  static const starTop = '${_icons}star2.svg';
+  static const cart = '${_icons}savat.svg';
+  static const heart = '${_icons}Heart.svg';
+  static const image1 = '${_images}image1.png';
 }
